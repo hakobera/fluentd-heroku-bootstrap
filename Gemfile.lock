@@ -15,7 +15,7 @@ GEM
     json (1.8.1)
     msgpack (0.5.8)
     sigdump (0.2.2)
-    yajl-ruby (1.2.0)
+    yajl-ruby (1.4.1)
 
 PLATFORMS
   ruby

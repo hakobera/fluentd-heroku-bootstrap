@@ -12,7 +12,7 @@ GEM
       yajl-ruby (~> 1.0)
     http_parser.rb (0.5.3)
     iobuffer (1.1.2)
-    json (1.8.1)
+    json (2.6.1)
     msgpack (0.5.8)
     sigdump (0.2.2)
     yajl-ruby (1.2.0)
